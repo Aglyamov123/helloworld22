@@ -1,0 +1,26 @@
+{
+  "name": "Christina Dunn",
+  "age": 38,
+  "address": {
+    "street": "Jafo View",
+    "city": "Mizlata",
+    "state": "MO",
+    "zip": "56353"
+  },
+  "contact": {
+    "phone": "(625) 996-8329",
+    "servicePhone": "800669747"
+  },
+  "birthday": "1959-12-25T03:23:10.507Z",
+  "ip": "146.149.248.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Nawga em ze lu najovam kuvdaaj cuf jug opoabu geceuho vom ojunasu lud ino han bouvi. Zudan giosi fo lus loner nu gilowin koado da sud wib huob sejavaf femge arzu manos. Fupe cu maw dicef le nan vumujiopi ugi wubhoric cora jassa bin utihus.",
+    "bio": "Nusad wovab beingop senbiw zibadmi iskilaf wizozti la domsi uresinaga ojwe do isade kizic favkuhlu rufomome. Tiimfi tojboc bude cevom sel rumjagjo zecwaheg wujrulnu zov lu jak wege im puw lensu vicuc kitnuv ojcawog. Camuuv je cu macofut co nakasika ra ew je patur ami cev huplereh uca mongumok obje vinejewo."
+  },
+  "apiKey": "811b878a7152558f4ad318513a76981a5bc60e3721aa7cf01ef276ce6e5b5c05",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}

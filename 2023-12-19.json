@@ -1,0 +1,26 @@
+{
+  "name": "Ola Roy",
+  "age": 38,
+  "address": {
+    "street": "Nonpo Terrace",
+    "city": "Eplonivi",
+    "state": "VA",
+    "zip": "73536"
+  },
+  "contact": {
+    "phone": "(385) 899-9851",
+    "servicePhone": "800626734"
+  },
+  "birthday": "2005-11-16T10:28:03.677Z",
+  "ip": "117.17.7.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugmozsop jiumu es cimpowge gubbic tazpa lenwavnuz zejiki ugetuit de dik buhjam lalul coure venih iz gitmojce ahuhatfes. Ikuecjud ozodoik cujsitnis fuwupela set hev ma dal ziitto huhohkaw fuknecife dewidob depwedid uhe. Ik iptizi tazsavad ewwuk tofuso vafaluipo sanudi obu seudu linukbik gana nuzlasba be epa. Rada izi wo tak veabtuh wol noga bopzohehu cabigu va jes os cuegipok ralaowi pop gume ciiju pazos. Tufdodese ipogose wofago lefbapefe bahmojrus nemvuzec ale dise jihov zetojuz do isiokosov jib ajuta uheufjer dahvu pevur ima.",
+    "bio": "Wowu lijumuki kawlu izisoez sucamo wajpe du duzosvim mok me ori binuthuk wunavbod macu mutem. Duobrug novni hu selgan peid hojocow arnazca jidodov epkom pikbalmo dabu biiwi idu jispijem etkinko ijbama veltico tarheg. To tezud hobbepbuc tagefle tozketke waslizav morzis faz ulsubogi omefeebi dinavuwo heztufsad wiwoot."
+  },
+  "apiKey": "3cff5a7c4c2dfde3c7af61c6e641916b532746fd0743ab6bceda688b51488825",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}

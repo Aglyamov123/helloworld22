@@ -1,0 +1,26 @@
+{
+  "name": "Lina Stevens",
+  "age": 34,
+  "address": {
+    "street": "Ofojen Center",
+    "city": "Kekliubo",
+    "state": "AR",
+    "zip": "78845"
+  },
+  "contact": {
+    "phone": "(611) 829-1674",
+    "servicePhone": "800521874"
+  },
+  "birthday": "2006-11-23T07:09:59.640Z",
+  "ip": "144.19.210.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivhooj feot si limzem ikajo pud mekeh iw gopi onkeros dogfaep ahume amo cifines pic vudna. Hagloh alpatu si cofkes vocomba tu gihip wigrarmu vit ike jij sabok jigu el zocu fedtad upo lof. Maru tiwsa bo ego cevrerki puh iwlus roftuwloc ledrossu nu jak zi.",
+    "bio": "Kegnatmew gi apji kovkola ico dewevwo giemace em na imna siwipi pilul kosgi abearewo mafuvwuv. Lo si diacezo ebuha uge athigu uzedaaw zeizume ebmojet goj boh uninamoz desocemu wus nokihgu. Ka avfiftup seb edi tecbet ceboc daru wueji ejeava fota set itlah nuluniece etli kij ip benduruvo epo. Foskaso usmudu apo rerinmo pevbof uvehugad ulidik ib sec hihno rinid lefad rusiwu."
+  },
+  "apiKey": "c1f4c0609166e43fcf181362ae7b453653f6248ec327b09744a53ea6d3502a59",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}

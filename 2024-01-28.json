@@ -1,0 +1,26 @@
+{
+  "name": "Phoebe Byrd",
+  "age": 35,
+  "address": {
+    "street": "Bubpil Lane",
+    "city": "Totwemo",
+    "state": "UT",
+    "zip": "56069"
+  },
+  "contact": {
+    "phone": "(438) 531-9933",
+    "servicePhone": "800543856"
+  },
+  "birthday": "1973-04-01T08:02:34.522Z",
+  "ip": "112.47.8.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga meme zomzovi ni um unoujifu ma hiztiv maewo buvu basbusoh lare haol ah suwukozu ogako ro. No so giopeju bupumlo jo lodaus hipu eta ekivojmuz jokkobo mid ne. Ez cod otosiso sez rasade sukcega ejnijaz wagker ru nueja ruzve woj ohaozamem okeof iri re. Ewzizci zi uglof iwazemiv cif cic wafujo jujol ti luborje bazuzso okvak uzu fajpa. Wosjevi kiken mu cagtiz zagatwu wew ulfawbas ciub selneuv gagofe vivtajsel zeczaw bic loto luma duevjit subhug.",
+    "bio": "Kozigu tebulba rodma jujrabis dofzanjuv nuvlo noko omogem rushutgu wo alnic omuopuso luh de. Zuiwuide upuci zos sac si con ver cozuvuif mil nin amkol tatbatad. Sipke winek jeleco vizmasi ab rodjoz toma ju to sulsazgu ninzin zowgi surteh ji jugroz zipiw. Zuwah lu vige piwu cosibewo jivowuva wakwu emiufpul dizep difoco saececij iwiiz sa mabwed."
+  },
+  "apiKey": "c3cf268b6895bce5cc1ccb9386c31a738e6ba083ed5e53d52ab33d7983a31e82",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Jon Santiago",
+  "age": 28,
+  "address": {
+    "street": "Vapvof Park",
+    "city": "Leethoz",
+    "state": "FL",
+    "zip": "19468"
+  },
+  "contact": {
+    "phone": "(328) 789-5032",
+    "servicePhone": "800738531"
+  },
+  "birthday": "1960-11-11T10:06:59.940Z",
+  "ip": "12.11.20.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Fecfoile jufwo ju nezu fulpi bezjer zo ozu tewac zeflaigu erata utajok gal zecav pi putruzne se. Weewo zokizup loejke wun ju cijado ketsos wam peruto ow id gimfower rebagoje lunfa caed foh. Id zimduhuk sifejut jenwin guvzo posol midup casij gom namrago he nutihgo ic nurtit desebo der wa nungekof. Pursulhar gavuci an fiku itezu jatharpo togmu wihat dehub kauzijud lalbo ufu ogodak suviwgew vugeg mesfap ovkeji. Buuk cajsari vum oze pe oheihu cu ubosesob timu ne sowi cuznot lujgo toftuik. Wutama ejkasfun cipe suvgefat owko vuc ij bikiwa atuwu mofjobefi irotu toceko pe adejuje huwcaf he ho kadof.",
+    "bio": "Te gu ko fohega zoarwa moupa nerot ommimir vo sawni lutboluji suapzow bicawuw erivil waz jacguwfiz. Pac cufirpal jacijred fup ho fu loz li ifaptod ife mub kiwre omihocto efufu. Dag bem faj row idulu femketoz nekebe za ez awnow kave acute ve peeh miz."
+  },
+  "apiKey": "9fdc67cf42e37c22a8a68499c5e86686b8d0bfa8be0a3adfcf9caadb00db7d4c",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}

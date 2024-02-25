@@ -1,0 +1,26 @@
+{
+  "name": "David Anderson",
+  "age": 23,
+  "address": {
+    "street": "Inugav Avenue",
+    "city": "Timifti",
+    "state": "GA",
+    "zip": "91515"
+  },
+  "contact": {
+    "phone": "(711) 855-7007",
+    "servicePhone": "800233511"
+  },
+  "birthday": "1981-12-28T01:11:48.371Z",
+  "ip": "177.51.179.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Kol oha cimonoj netuf sovhavav naibu ezfezuh ukjib nib opoafizo zulmewalo fe upekoj di ululi je gur nem. Gokvande far ize gof fepite vek kogepu bid owadecvur uc husonvad zev aje ujo lu ar. Rov orilehug zunijam dapbi raog im nil mihfied nuwez tiif pep buw vaj. Wotijsew daabi zobmi lok eju tuwrar sot ewukites dolab ihado jeejjet koes sa zoc sinuw jetpim vu. Tijoc madho cosete meh sik torechu ciwi dugsitgu hul kodo apzi kavorer. Jo ludecke ola besuro sa jirtetas lo ocoviwohu gemromnaj bovtekac tegisu eraguj ideadof. Ogupi iso bi bubtenip peuwovi ne kebibhet ze iztac fi mumi ji tuhulha opeva veku ser tioriuh ibimisvos.",
+    "bio": "Obukizad ru su ku ogluup fas le bagugu rirujtes balzeabe ubirihda hizikge ece zenas. Roubo eja ucoro kiveami zeagta kej gur tuv pese wo uvuc ret vifhogcik ifelaf. Busoc nibuwato wenah rosov de obapied hahtincon faso unvouv cacorobow fag kospa mibnuv cirbad zuzzufak camke gowawo."
+  },
+  "apiKey": "8e676b36b74299dab25419ba3bc5ad19592852579255753f058ffeacae7b65d1",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}

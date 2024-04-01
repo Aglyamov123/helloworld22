@@ -1,0 +1,26 @@
+{
+  "name": "Hester Lee",
+  "age": 18,
+  "address": {
+    "street": "Welonu Manor",
+    "city": "Nofizo",
+    "state": "LA",
+    "zip": "91836"
+  },
+  "contact": {
+    "phone": "(531) 315-1142",
+    "servicePhone": "800756798"
+  },
+  "birthday": "1971-03-17T04:56:14.387Z",
+  "ip": "253.134.249.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Mituf lerom wabbeji ezieg dotocdop ukvoh deimiti riagoub nobhu rolebsuh hi hupfan cekruwine. Bo niwis kackabi binoj ijo cude hurmeom jup kuemaom tugad ufuvala icuh lacjowij. Ece pinlu gekdatle wa peiba ace noskuci ewiwaub ino walcefu sedhu oloegjom. Ujegebak hohez uraoc luf vilfaba tosol ufemok henut bi ik lamijen dalkadi wukapzem fom boguto tucpacsoc. Neli odberej jariw ilazos dozrahra ebobebso kense gaz car orecoc tirrulih jubota husjib. Keso er ob ig gebdat mabit helotah gav omu gijahuf pagih woevi piz womurgas fe keceagi unenhen wac.",
+    "bio": "Mug fiz fabek tuteh dever camuho luz duvtofe man viomuju ocahan zab gu. Cuzi noube docdi opitapu rin fok ma hafij pape abievi vepgeeg pivim niisamok. Irsa daj mejawi piufme pe pih naankut fob ra wazifu cog homat. Mazudda uta dip fop waruob wigape luah vaco cendis zud cokpojuj idevo ci omo vilif ihama awnaz towili."
+  },
+  "apiKey": "026a21b5624625e896e4fcd6f7c2a533058670a57c1f32a8361f349f68ceea77",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
